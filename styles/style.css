@@ -1,0 +1,46 @@
+
+*   {
+    font-family: "Orbitron", sans-serif;
+    color: lightblue;
+}
+
+#underline {
+    display: inline;
+    border-bottom: 2px solid pink;
+}
+body, h1 {
+    margin: 0;
+    text-align: center;
+}
+header {
+    /* background-image: url("images/spacex.png"); */
+    background-image: url("../images/galaxy.webp");
+    background-size: 100% 100%;
+    background-color: #cccccc;
+    padding: 0 0 80px;
+}
+
+img {
+    width: 30%;
+}
+h1 {
+    color: red;
+}
+
+button {
+    color: black;
+    background: lightgray;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: black;
+    color: lightgrey;
+}
+
+footer {
+    background-color: #fff;
+    font-weight: bold;
+    color: darkblue;
+}
